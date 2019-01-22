@@ -81,7 +81,8 @@ Undergraduate Students
 * Brett Wilson, [BrettMWilson](https://github.com/BrettMWilson)
 * Mohammad Zamang
 * Daniel Zamarron
-
+* Dolapo Awe [Dawe101](https://github.com/Dawe101)
+  
 
 Faculty Members
 ---------------
